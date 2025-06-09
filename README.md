@@ -1,2 +1,2 @@
-# VendasXbox
-Dashboard de vendas do Xbox Game Pass
+# Vendas Xbox
+Dashboard exemlo de vendas do Xbox Game Pass para portfólio
